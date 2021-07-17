@@ -1,4 +1,5 @@
 ### Hi there 👋
+<br>
 
 <!--
 **kunal2899/kunal2899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kunal2899&hide=contribs,issues,prs&show_icons=true&custom_title=My%20GitHub%20Stats&include_all_commits=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunal2899&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kunal2899&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
