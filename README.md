@@ -19,12 +19,11 @@ Here are some ideas to get you started:
 <br> -->
 <br>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kunal2899&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kunal2899&layout=compact&theme=dark)
 
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunal2899&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+<!-- <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunal2899&theme=dark)
+<br> -->
 
 
 
